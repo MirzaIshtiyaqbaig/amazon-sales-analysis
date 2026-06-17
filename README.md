@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Dataset Analysis
+# Amazon Sales Dataset Analysis
 
 ## Overview
 End-to-end data analysis of 50,000 Amazon sales orders 
